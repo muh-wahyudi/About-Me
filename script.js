@@ -1,4 +1,4 @@
-// Efek animasi fade-in saat halaman dimuat
+// hey
 document.addEventListener("DOMContentLoaded", () => {
   const about = document.getElementById("AboutMeSection");
   setTimeout(() => {
